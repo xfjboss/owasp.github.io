@@ -3,10 +3,12 @@
 layout: home
 title: OWASP Foundation, the Open Source Foundation for Application Security 
 permalink: /
+tags: Application Security, Cyber Security, Informatio Security, Web, Cloud
 
 ---
 
-<!-- Rebuild Site Tag 101 -->
+<!-- Rebuild Site Tag 106 -->
+
 <div class="homepage-promo">
   <img src="/assets/images/content/ams-preso-new.png" alt="Presentation at Global AppSec AMS">
 </div>
@@ -23,7 +25,7 @@ permalink: /
 <li>Education & Training</li>
 </ul>
 
-<p>For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. <a href="/donate">Donate</a>, <a href="/membership">Join</a>, or become a <a href="/supporters">Corporate Member</a> today.</p>
+<p>For nearly two decades corporations, foundations, developers, and volunteers have supported the OWASP Foundation and its work. <a href="/donate/">Donate</a>, <a href="/membership/">Join</a>, or become a <a href="/supporters">Corporate Member</a> today.</p>
 </section>
 
 <hr>
